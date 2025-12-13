@@ -7,7 +7,10 @@ visualization, and problem-solving using real-world datasets.
 - Data Visualization (Tableau / Power BI)
 - SQL(Beginner)
 - ## Projects
-- ### 1. Retail Customer Anlytics 
+- ### 1. Retail Customer Analytics 
 - Tool: Excel, Power BI
 - Description: Analyzed mall customer spending behavior to uncover loyalty and retention insights that support data-driven business decisions.
 - Dashboard: 
+## Contact 
+-LinkedIn: https://www.linkedin.com/in/sekinat-salaudeen
+Email: sekinatsalauden11@gmail.com
