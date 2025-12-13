@@ -13,4 +13,4 @@ visualization, and problem-solving using real-world datasets.
 - Dashboard: 
 ## Contact 
 -LinkedIn: https://www.linkedin.com/in/sekinat-salaudeen
-Email: sekinatsalauden11@gmail.com
+-Email: sekinatsalauden11@gmail.com
